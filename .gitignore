@@ -1,0 +1,9 @@
+.vs-code
+.vscode/*
+/node_modules
+/public/js/
+/public/css/
+/vendor
+.env
+package-lock.json
+composer.lock
